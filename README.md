@@ -12,7 +12,8 @@
 for client’s specific needs:</p>
 <ul>
   <li>BalanceBook: https://www.balancebook.pl/</li>
-  <li>RobsonFotobudka: https://robson-fotobudka360.pl//</li>
+  <li>RobsonFotobudka: https://robson-fotobudka360.pl/</li>
+  <li>BicepsLegionowo: https://www.odzywki-legionowo.pl/</li>
 </ul>
 
 
