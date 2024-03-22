@@ -11,6 +11,7 @@
 <p> Crafting customized websites
 for client’s specific needs:</p>
 <ul>
+   <li>JeszczeStronaAlboSto (fullstack app): https://www.jeszczestronaalbosto.pl/</li>
   <li>BalanceBook: https://www.balancebook.pl/</li>
   <li>RobsonFotobudka: https://robson-fotobudka360.pl/</li>
   <li>BicepsLegionowo: https://www.odzywki-legionowo.pl/</li>
