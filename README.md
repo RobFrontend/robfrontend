@@ -5,7 +5,7 @@
 - 👨‍💻 You can visit my portfolio at [https://portfolio-robfrontend.netlify.app/](https://portfolio-robfrontend.netlify.app/)
 - 👨‍🏫 My LinkedIn: https://www.linkedin.com/in/robert-grabowski-b97965239/
 - 📫 How to reach me **robert.grabowski97@gmail.com**
-- 📞 609843405
+- 📞 +48 609843405
 
 <h3 >Experience:</h3>
 <p> Crafting customized websites
