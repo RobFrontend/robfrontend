@@ -11,10 +11,10 @@
 <p> Crafting customized websites
 for client’s specific needs:</p>
 <ul>
-   <li>JeszczeStronaAlboSto (fullstack app): https://www.jeszczestronaalbosto.pl/</li>
-  <li>BalanceBook: https://www.balancebook.pl/</li>
-  <li>RobsonFotobudka: https://robson-fotobudka360.pl/</li>
-  <li>BicepsLegionowo: https://www.odzywki-legionowo.pl/</li>
+   <li>JeszczeStronaAlboSto (fullstack Next.js app with my own CMS and API): https://www.jeszczestronaalbosto.pl/</li>
+  <li>BalanceBook: https://www.balancebook.pl/ (HTML, CSS, Vanilla JS)</li>
+  <li>RobsonFotobudka: https://robson-fotobudka360.pl/ (HTML, CSS, Vanilla JS)</li>
+  <li>BicepsLegionowo: https://www.odzywki-legionowo.pl/ (React)</li>
 </ul>
 
 
