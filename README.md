@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋 I'm Robert 🙋‍♂️</h1> 
-<h2 align="center" marginBottom='32px'>A passionate frontend developer and creator from Poland</h2>
+<h2 align="center" marginBottom='32px'>A passionate frontend developer and web publisher from Poland</h2>
 
 🤝 I’m looking for employment as a frontend developer
 - 👨‍💻 You can visit my portfolio at [https://portfolio-robfrontend.netlify.app/](https://portfolio-robfrontend.netlify.app/)
