@@ -11,7 +11,7 @@
 <p> Crafting customized websites
 for client’s specific needs:</p>
 <ul>
-   <li>JeszczeStronaAlboSto (fullstack Next.js app with my own CMS and API): https://www.jeszczestronaalbosto.pl/</li>
+   <li>JeszczeStronaAlboSto: https://www.jeszczestronaalbosto.pl/ (fullstack Next.js app with my own CMS and API)</li>
   <li>BalanceBook: https://www.balancebook.pl/ (HTML, CSS, Vanilla JS)</li>
   <li>RobsonFotobudka: https://robson-fotobudka360.pl/ (HTML, CSS, Vanilla JS)</li>
   <li>BicepsLegionowo: https://www.odzywki-legionowo.pl/ (React)</li>
