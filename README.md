@@ -2,7 +2,7 @@
 <h2 align="center" marginBottom='32px'>A passionate frontend developer and web publisher from Poland</h2>
 
 🤝 I’m looking for employment as a frontend developer
-- 👨‍💻 You can visit my portfolio at [https://portfolio-robfrontend.netlify.app/](https://portfolio-robfrontend.netlify.app/)
+- 👨‍💻 You can visit my portfolio at [https://portfolio-robfrontend.vercel.app/](https://portfolio-robfrontend.vercel.app/)
 - 👨‍🏫 My LinkedIn: https://www.linkedin.com/in/robert-grabowski-b97965239/
 - 📫 How to reach me **robert.grabowski97@gmail.com**
 - 📞 +48 609843405
